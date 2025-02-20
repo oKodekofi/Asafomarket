@@ -41,7 +41,7 @@ export default function Layout({ title, children }) {
         <title>
           {title ? title + ' - New asafo market' : 'New Asafo Market'}
         </title>
-        <meta name="description" content="Ecommerce Website" />
+        <meta name="description" content="African Grocery Stores" />
         <link rel="icon" href="/asafo.png" />
       </Head>
 
