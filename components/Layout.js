@@ -42,7 +42,7 @@ export default function Layout({ title, children }) {
           {title ? title + ' - New asafo market' : 'New Asafo Market'}
         </title>
         <meta name="description" content="Ecommerce Website" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/asafo.png" />
       </Head>
 
       <ToastContainer position="bottom-center" limit={1} />
